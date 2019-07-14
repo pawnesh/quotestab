@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ORPlCwNdjaAUwTnfewkZIg==
+SHA1-Digest: OXS1c0HsgSTmm2+MA/KQbejmwnA=
+
+Name: options.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XTp/QhheLRDfzzQkA4Osgw==
+SHA1-Digest: FYJgDZQvNbiNHRDq5eoCHGidmDM=
+
+Name: options.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zMkhrgXtEA1TWM9y4U7S5Q==
+SHA1-Digest: 1aWsZhDBilONrCynImRO3J/euYQ=
+
+Name: quotes-new-tab.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jS7Jv74yRg9pPq4TEVjT1Q==
+SHA1-Digest: kGO3b63AAxibMW/4TNKYsqv/Ow0=
+
+Name: tabs.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 75gk65HWTdSjNrJQQoSd2w==
+SHA1-Digest: Atc49uUmlZ72tmee8OAA30h3gNY=
+
+Name: icons/newtab-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YZMuuPwZWjBuPsLwiqrDPg==
+SHA1-Digest: 3AAkzw81SdMIscKlT7LWPriSKBo=
+
